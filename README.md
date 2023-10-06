@@ -3,7 +3,7 @@
 Ashhad06/Ashhad06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### 🚀 Some Tools I Have Used and Learned
+### 🚀 Some Tools I am currently learning
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 1em;" />
